@@ -2,7 +2,12 @@
 
 ## Play the game 
 
+Please install ``pygame`` to play this.
+
 Use `` py game.py `` to play
+
+Map is stored as map.mp in the current directory. You can regenerate map
+by deleting it and running the game program.
 
 ## Basic Rules
 
